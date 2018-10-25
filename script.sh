@@ -153,7 +153,7 @@ if [ $mulet -lt 1 -o $mulet -gt 2 ]
     bash script.sh
 fi
 
-
+#(simple ligne pour que ce soit moi qui apparaisse dans le commit et pas mourlon jsais pas quoi qui s'est mit en utilisateur global comme un gros sale )
 
 
 
